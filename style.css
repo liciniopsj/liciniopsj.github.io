@@ -14,6 +14,9 @@ p{
     font-style: oblique;
     text-decoration: underline;    
 }
+.trybe-green{
+    color: #0a7e51;
+}
 .big{
     font-size: 1.25em;
 }
