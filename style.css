@@ -1,0 +1,22 @@
+body{
+    background-color: #b4c1cfff;
+    color: #050505ff;
+}
+
+h2 {
+    font-family: monospace ;
+}
+
+p{
+    font-family: monospace;
+}
+#nac{
+    font-style: oblique;
+    text-decoration: underline;    
+}
+.big{
+    font-size: 1.25em;
+}
+.small{
+    font-size: 0.75em;
+}
