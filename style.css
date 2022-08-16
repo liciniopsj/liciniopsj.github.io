@@ -3,13 +3,10 @@ body{
     color: #050505ff;
 }
 
-h2 {
+h2 ,p {
     font-family: monospace ;
 }
 
-p{
-    font-family: monospace;
-}
 #nac{
     font-style: oblique;
     text-decoration: underline;    
